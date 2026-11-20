@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Sammyklen-Tech/Sammyklen-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Samuel Kenule Lenebari
+Systems & Network Administrator | Port Harcourt, Nigeria
 
-Here are some ideas to get you started:
+I run enterprise IT operations: Windows Server, Active Directory,
+Microsoft 365 and the networks underneath them. 7+ years of experience.
+Open to full-time remote roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+- Windows Server, Active Directory, Group Policy, DNS, DHCP
+- Microsoft 365, Entra ID, SharePoint Online
+- MikroTik, Ubiquiti UniFi, VLANs, VPN
+- PowerShell (growing), Python and Bash (learning)
+
+## Labs
+- AD and Windows Server lab (coming soon)
+- PowerShell user provisioning (coming soon)
+
+## Contact
+Portfolio: https://sammyklen-tech.github.io/Samuel-Lenebari---Portfolio/
+Email: samuellene.k@gmail.com
+LinkedIn: https://linkedin.com/in/SamuelLenebari
